@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+```python
+class AIResearcher:
+
+    def __init__(self):
+        self.name = "Minh Duc VU"
+        self.role = "AI Researcher Engineer"
+        self.language_spoken = ["vn_VN", "en_US"]
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+
+me = AIResearcher()
+me.say_hi()
+```
