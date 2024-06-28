@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## About Me:
+
 ```python
 class AIResearcher:
 
@@ -22,6 +24,8 @@ class AIResearcher:
         self.name = "Minh Duc VU"
         self.role = "AI Researcher Engineer"
         self.language_spoken = ["vn_VN", "en_US"]
+        self.education = ["EPITA", "HUS-VNU", "FPT Aptech"]
+        self.programming_language = ["Python", "Javascript"]
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
